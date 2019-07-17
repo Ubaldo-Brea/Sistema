@@ -13,5 +13,6 @@ public class FilmRentalArrayTest {
   
   myFilmRentalArray.filmsRented = 10;
   myFilmRentalArray.displayFilmRentalArray();
+  
   } 
 }
