@@ -7,12 +7,12 @@ public class FilmRentalArray {
     public void setFilmRentalArray() {
         filmsRentedDiscount = new int[7];
         filmsRentedDiscount[0] = 0;
-        filmsRentedDiscount[1] = 15;
-        filmsRentedDiscount[2] = 15;
-        filmsRentedDiscount[3] = 15;
-        filmsRentedDiscount[4] = 20;
-        filmsRentedDiscount[5] = 20;
-        filmsRentedDiscount[6] = 25;
+        filmsRentedDiscount[1] = 20;
+        filmsRentedDiscount[2] = 30;
+        filmsRentedDiscount[3] = 40;
+        filmsRentedDiscount[4] = 50;
+        filmsRentedDiscount[5] = 60;
+        filmsRentedDiscount[6] = 70;
     }
     
     public void displayFilmRentalArray(){
