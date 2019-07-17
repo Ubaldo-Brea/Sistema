@@ -5,7 +5,7 @@ public class FilmRentalArrayTest {
   FilmRentalArray myFilmRentalArray = new FilmRentalArray();
   
   myFilmRentalArray.setFilmRentalArray();
-  myFilmRentalArray.filmsRented = 1;
+  myFilmRentalArray.filmsRented = 100;
   myFilmRentalArray.displayFilmRentalArray();
   
   myFilmRentalArray.filmsRented = 5;
